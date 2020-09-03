@@ -214,7 +214,7 @@ To execute acceptance tests do the following:
    vendor/bin/codecept run unit,functional
    ```
 
-### Code coverage support
+### Code coverage support..
 
 By default, code coverage is disabled in `codeception.yml` configuration file, you should uncomment needed rows to be able
 to collect code coverage. You can run your tests and collect coverage with the following command:
